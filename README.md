@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucian-tech1
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m lucian
+- 👀 I’m interested in troubleshooting hardware, software, and network problems.
+- 🌱 I’m currently learning batch scripting and power shell
 - 📫 How to reach me 
