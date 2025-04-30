@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucian-tech1
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 📫 How to reach me 
